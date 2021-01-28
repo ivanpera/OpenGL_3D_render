@@ -1,5 +1,5 @@
 # OpenGL_3D_render
-University project.\
+University project.
 
 
 This is an OpenGL/glsl 3D renderer with a premade scene.\
@@ -15,4 +15,4 @@ Controls:\
     SPACE: pause the simulation\
     +/-: increase/decrease camera movement speed\
     è/à: increase/decraase camera turn speed\
-    ,/.: increase/decrease camera fov\
+    ,/.: increase/decrease camera fov
