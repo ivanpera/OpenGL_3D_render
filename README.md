@@ -1,5 +1,5 @@
 # OpenGL_3D_render
-University project.
+University project made for an exam in about two weeks.
 
 
 This is an OpenGL/glsl 3D renderer with a premade scene.\
